@@ -1,0 +1,119 @@
+[
+	{
+		"x": 13,
+		"y": 2,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 9,
+		"y": 6,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 6,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 7,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 8,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 0,
+		"y": 12,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 12,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 13,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 7,
+		"y": 13,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 7,
+		"y": 14,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 9,
+		"y": 14,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 10,
+		"y": 14,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 14,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	}
+]

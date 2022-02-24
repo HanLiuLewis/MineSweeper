@@ -1,0 +1,173 @@
+[
+	{
+		"x": 6,
+		"y": 1,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 6,
+		"y": 2,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 1,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 6,
+		"y": 4,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 6,
+		"y": 5,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 6,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 11,
+		"y": 7,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 6,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 5,
+		"y": 6,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 7,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 8,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 10,
+		"y": 8,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 10,
+		"y": 9,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 10,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 10,
+		"y": 10,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 11,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 9,
+		"y": 11,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 12,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 9,
+		"y": 12,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	}
+]

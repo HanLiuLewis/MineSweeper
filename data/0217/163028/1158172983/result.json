@@ -1,0 +1,42 @@
+[
+	{
+		"x": 0,
+		"y": 0,
+		"prob": 0.876544,
+		"action": 1,
+		"dead": false,
+		"progress": 0.584006,
+		"weight": 0.8920394149831125,
+		"commonClears": []
+	},
+	{
+		"x": 8,
+		"y": 0,
+		"prob": 0.876544,
+		"action": 1,
+		"dead": false,
+		"progress": 0.584006,
+		"weight": 0.8920394149831125,
+		"commonClears": []
+	},
+	{
+		"x": 0,
+		"y": 8,
+		"prob": 0.876544,
+		"action": 1,
+		"dead": false,
+		"progress": 0.584006,
+		"weight": 0.8920394149831125,
+		"commonClears": []
+	},
+	{
+		"x": 8,
+		"y": 8,
+		"prob": 0.876544,
+		"action": 1,
+		"dead": false,
+		"progress": 0.584006,
+		"weight": 0.8920394149831125,
+		"commonClears": []
+	}
+]

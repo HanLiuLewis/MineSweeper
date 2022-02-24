@@ -1,0 +1,48 @@
+[
+	{
+		"x": 15,
+		"y": 6,
+		"prob": 0.917822,
+		"action": 1,
+		"dead": false,
+		"progress": 0.378514,
+		"weight": 0.9031575503453294,
+		"commonClears": []
+	},
+	{
+		"x": 16,
+		"y": 6,
+		"prob": 0.910892,
+		"action": 1,
+		"dead": false,
+		"progress": 0.146006,
+		"weight": 0.8765306467151442,
+		"commonClears": []
+	},
+	{
+		"x": 16,
+		"y": 4,
+		"prob": 0.910892,
+		"action": 1,
+		"dead": false,
+		"progress": 0.219652,
+		"weight": 0.8741972238587171,
+		"commonClears": []
+	},
+	{
+		"x": 13,
+		"y": 0,
+		"prob": 0.36980199999999996,
+		"dead": true,
+		"progress": 0,
+		"weight": 0.36980199999999996
+	},
+	{
+		"x": 12,
+		"y": 0,
+		"prob": 0.630199,
+		"dead": true,
+		"progress": 0,
+		"weight": 0.630199
+	}
+]

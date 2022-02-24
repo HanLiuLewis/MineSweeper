@@ -1,0 +1,38 @@
+[
+	{
+		"x": 29,
+		"y": 0,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 29,
+		"y": 1,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 28,
+		"y": 4,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 29,
+		"y": 4,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	}
+]

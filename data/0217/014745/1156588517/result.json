@@ -1,0 +1,242 @@
+[
+	{
+		"x": 8,
+		"y": 2,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.194993,
+		"weight": 0.8419753598136334,
+		"commonClears": []
+	},
+	{
+		"x": 7,
+		"y": 1,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.197686,
+		"weight": 0.832478414832073,
+		"commonClears": []
+	},
+	{
+		"x": 6,
+		"y": 2,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.197686,
+		"weight": 0.832478414832073,
+		"commonClears": []
+	},
+	{
+		"x": 7,
+		"y": 3,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.168936,
+		"weight": 0.8318639973107371,
+		"commonClears": []
+	},
+	{
+		"x": 6,
+		"y": 1,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.19839,
+		"weight": 0.8214963734498848,
+		"commonClears": []
+	},
+	{
+		"x": 8,
+		"y": 1,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.19839,
+		"weight": 0.8214963734498848,
+		"commonClears": []
+	},
+	{
+		"x": 6,
+		"y": 3,
+		"prob": 0.877563,
+		"action": 1,
+		"dead": false,
+		"progress": 0.19839,
+		"weight": 0.8214963734498848,
+		"commonClears": []
+	},
+	{
+		"x": 8,
+		"y": 3,
+		"prob": 0.857061,
+		"action": 1,
+		"dead": false,
+		"progress": 0.218784,
+		"weight": 0.8059397043603581,
+		"commonClears": []
+	},
+	{
+		"x": 9,
+		"y": 3,
+		"prob": 0.839941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.089984,
+		"weight": 0.7942221677023066,
+		"commonClears": []
+	},
+	{
+		"x": 9,
+		"y": 5,
+		"prob": 0.839941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.057398,
+		"weight": 0.7901230011275004,
+		"commonClears": []
+	},
+	{
+		"x": 7,
+		"y": 0,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.328265,
+		"weight": 0.7828041521191835,
+		"commonClears": []
+	},
+	{
+		"x": 0,
+		"y": 0,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.395978,
+		"weight": 0.774748280229952,
+		"commonClears": []
+	},
+	{
+		"x": 29,
+		"y": 0,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.395978,
+		"weight": 0.774748280229952,
+		"commonClears": []
+	},
+	{
+		"x": 0,
+		"y": 15,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.395978,
+		"weight": 0.774748280229952,
+		"commonClears": []
+	},
+	{
+		"x": 29,
+		"y": 15,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.395978,
+		"weight": 0.774748280229952,
+		"commonClears": []
+	},
+	{
+		"x": 5,
+		"y": 2,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.157071,
+		"weight": 0.7482934115743383,
+		"commonClears": []
+	},
+	{
+		"x": 7,
+		"y": 4,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.104806,
+		"weight": 0.74786071634244,
+		"commonClears": []
+	},
+	{
+		"x": 9,
+		"y": 2,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.084088,
+		"weight": 0.7451105045790761,
+		"commonClears": []
+	},
+	{
+		"x": 13,
+		"y": 4,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.169195,
+		"weight": 0.730449861001129,
+		"commonClears": []
+	},
+	{
+		"x": 9,
+		"y": 6,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.058895,
+		"weight": 0.728944096568598,
+		"commonClears": []
+	},
+	{
+		"x": 10,
+		"y": 6,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.049275,
+		"weight": 0.7285023697149109,
+		"commonClears": []
+	},
+	{
+		"x": 10,
+		"y": 2,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.049275,
+		"weight": 0.7285023697149109,
+		"commonClears": []
+	},
+	{
+		"x": 11,
+		"y": 6,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.032825,
+		"weight": 0.7151448447895828,
+		"commonClears": []
+	},
+	{
+		"x": 11,
+		"y": 2,
+		"prob": 0.793941,
+		"action": 1,
+		"dead": false,
+		"progress": 0.032825,
+		"weight": 0.7151448447895828,
+		"commonClears": []
+	}
+]

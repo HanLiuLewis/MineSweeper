@@ -1,0 +1,132 @@
+[
+	{
+		"x": 12,
+		"y": 4,
+		"prob": 0.895281,
+		"action": 1,
+		"dead": false,
+		"progress": 0.356637,
+		"weight": 0.8703844969989997,
+		"commonClears": []
+	},
+	{
+		"x": 12,
+		"y": 3,
+		"prob": 0.895281,
+		"action": 1,
+		"dead": false,
+		"progress": 0.27718,
+		"weight": 0.8658311094223338,
+		"commonClears": []
+	},
+	{
+		"x": 12,
+		"y": 5,
+		"prob": 0.895281,
+		"action": 1,
+		"dead": false,
+		"progress": 0.27718,
+		"weight": 0.8658311094223338,
+		"commonClears": []
+	},
+	{
+		"x": 11,
+		"y": 3,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.193268,
+		"weight": 0.8256874189329658,
+		"commonClears": []
+	},
+	{
+		"x": 11,
+		"y": 5,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.193268,
+		"weight": 0.8256874189329658,
+		"commonClears": []
+	},
+	{
+		"x": 13,
+		"y": 3,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.193268,
+		"weight": 0.8256874189329658,
+		"commonClears": []
+	},
+	{
+		"x": 13,
+		"y": 5,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.193268,
+		"weight": 0.8256874189329658,
+		"commonClears": []
+	},
+	{
+		"x": 10,
+		"y": 4,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.100955,
+		"weight": 0.8248390535228627,
+		"commonClears": []
+	},
+	{
+		"x": 14,
+		"y": 4,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.160424,
+		"weight": 0.823025816900933,
+		"commonClears": []
+	},
+	{
+		"x": 14,
+		"y": 3,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.183549,
+		"weight": 0.8083739460182702,
+		"commonClears": []
+	},
+	{
+		"x": 14,
+		"y": 5,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.183549,
+		"weight": 0.8083739460182702,
+		"commonClears": []
+	},
+	{
+		"x": 10,
+		"y": 5,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.145107,
+		"weight": 0.8038564925942956,
+		"commonClears": []
+	},
+	{
+		"x": 10,
+		"y": 3,
+		"prob": 0.862832,
+		"action": 1,
+		"dead": false,
+		"progress": 0.06625,
+		"weight": 0.8010026705928173,
+		"commonClears": []
+	}
+]

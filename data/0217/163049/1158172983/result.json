@@ -1,0 +1,56 @@
+[
+	{
+		"x": 2,
+		"y": 0,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 4,
+		"y": 0,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 5,
+		"y": 0,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 2,
+		"y": 3,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 1,
+		"y": 3,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	},
+	{
+		"x": 1,
+		"y": 4,
+		"prob": 1,
+		"action": 1,
+		"dead": false,
+		"progress": 0,
+		"weight": 1
+	}
+]

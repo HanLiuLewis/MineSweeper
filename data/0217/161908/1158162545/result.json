@@ -1,0 +1,32 @@
+[
+	{
+		"x": 7,
+		"y": 3,
+		"prob": 0.941826,
+		"action": 1,
+		"dead": false,
+		"progress": 0.028096,
+		"weight": 0.9235971800210638,
+		"commonClears": []
+	},
+	{
+		"x": 9,
+		"y": 3,
+		"prob": 0.929581,
+		"action": 1,
+		"dead": false,
+		"progress": 0.308248,
+		"weight": 0.9184660486972344,
+		"commonClears": []
+	},
+	{
+		"x": 11,
+		"y": 1,
+		"prob": 0.859162,
+		"action": 1,
+		"dead": false,
+		"progress": 0.360608,
+		"weight": 0.8560022713967971,
+		"commonClears": []
+	}
+]
